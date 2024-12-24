@@ -2,6 +2,8 @@
   
 # Machine Learning Foundations: Code Projects
 Repository for all my original code project submissions for UW CSE446: Machine Learning.
+
+**Machine Learning Glossary (Google):** https://developers.google.com/machine-learning/glossary 
 ***
 ### These projects reflect my expertise within the following ML topics:
 ***
