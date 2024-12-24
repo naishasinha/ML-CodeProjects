@@ -3,7 +3,7 @@
 ***
 * Library for programming with tensors - multidimensional arrays that represent data and parameters in deep neural networks
 * Help train ML models using Python
-* Facilitates high performance computing on a GPU
+* Facilitates high performance computing on a **GPU (Graphics Processing Unit)**: specialized electronic circuit that performs mathematical calculations quickly to handle graphics-related tasks
 * Supports a dynamic computation graph (allows models to be optimized at runtime(. Does this by constructing a DAG consisting of functions that keeps track of all the executed operations on the tensors, allowing you to change the shape, size, and operations after every iteration if needed.
 
 Tensor is similar to a multi-dimensional array, creates a 2D array or Matrix with Python, then use torch to convert it into a tensor:
